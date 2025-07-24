@@ -6,7 +6,7 @@ This repository contains the implementation, code, and supporting files for our 
 
 XGBoost (Extreme Gradient Boosting) is a powerful ensemble learning algorithm known for its speed and performance. This project explores how XGBoost works, compares it with Random Forest, and demonstrates its application on a real-world classification dataset.
 
-## 📁 Contents
+# Contents
 Jupyter notebook capstone.ipynb
 XG boost Capstone Presentation
 Final Report
