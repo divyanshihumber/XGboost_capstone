@@ -14,12 +14,11 @@ Final Report
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/xgboost-capstone.git
-   cd xgboost-capstone
-2. Install dependencies:
-pip install -r requirements.txt
+   git clone (https://github.com/divyanshihumber/XGboost_capstone.git)
+   cd capstone.ipynb
+   
 
-3. Run the main script from the jupyter notebook capstone.ipynb
+2. Run the main script from the jupyter notebook capstone.ipynb
 
 
 **Visualizations**
