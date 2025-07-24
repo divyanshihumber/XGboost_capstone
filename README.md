@@ -8,7 +8,7 @@ XGBoost (Extreme Gradient Boosting) is a powerful ensemble learning algorithm kn
 
 # Contents
 Jupyter notebook capstone.ipynb
-XG boost Capstone Presentation
+XGboost_capstone.pptx
 Final Report
 ## 🚀 How to Run
 
